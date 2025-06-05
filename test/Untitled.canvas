@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"de178d26c0ec968f","x":118,"y":-11,"width":400,"height":400,"type":"file","file":"2025-06-04.md"},
+		{"id":"de178d26c0ec968f","x":118,"y":-11,"width":400,"height":400,"type":"file","file":"test/2025-06-04.md"},
 		{"id":"80bb469b2768a88e","type":"text","text":"","x":-28,"y":-29,"width":250,"height":60},
 		{"id":"30aed1c3c6d96094","type":"text","text":"hjh\n","x":-199,"y":-107,"width":250,"height":60},
 		{"id":"fd5794d2bbde20cf","type":"file","file":"Welcome.md","x":-274,"y":-380,"width":400,"height":187},

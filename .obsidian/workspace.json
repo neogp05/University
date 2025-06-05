@@ -30,13 +30,13 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Welcome.md",
-                "bFile": "Welcome.md",
+                "aFile": ".obsidian/plugins/obsidian-git/obsidian_askpass.sh",
+                "bFile": ".obsidian/plugins/obsidian-git/obsidian_askpass.sh",
                 "aRef": "HEAD",
                 "bRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Welcome"
+              "title": "Diff: obsidian_askpass.sh"
             }
           }
         ],
@@ -197,13 +197,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31a54835c2b8ad4e",
+  "active": "73e44238536870b9",
   "lastOpenFiles": [
-    "2025-06-04.md",
-    "create a link.md",
-    "Untitled.canvas",
+    "test",
+    "test/2025-06-04.md",
+    "test/create a link.md",
+    "test/Untitled.canvas",
     "Untitled.md",
-    "Welcome.md",
-    "Untitled"
+    "Welcome.md"
   ]
 }
