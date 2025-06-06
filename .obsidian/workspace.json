@@ -11,17 +11,10 @@
             "id": "9da8acbcc5aed032",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -169,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 255.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,13 +175,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9da8acbcc5aed032",
+  "active": "73e44238536870b9",
   "lastOpenFiles": [
+    "2025-06-05.md",
+    "Schul-Pädagogik",
+    "IBN",
     "Übung 2.pdf",
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "ALDA",
     "Welcome.md",
     "Untitled.md",
-    "2025-06-05.md",
-    "Untitled.canvas",
     "test",
     "test/2025-06-04.md",
     "test/create a link.md",
