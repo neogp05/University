@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-06-04.md",
+                "file": "Schulpädagogik Mitschrieb.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-06-04"
+              "title": "Outline of Schulpädagogik Mitschrieb"
             }
           },
           {
@@ -162,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73e44238536870b9",
+  "active": "f63e3ef48967e43e",
   "lastOpenFiles": [
+    "uebung04_Lili-Westermann_Mike-Schmidt_Joachim-Surm.goodnotes",
+    "Schulpädagogik Mitschrieb.pdf",
     "2025-06-05.md",
     "Schul-Pädagogik",
     "IBN",
