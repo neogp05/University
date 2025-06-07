@@ -11,10 +11,14 @@
             "id": "9da8acbcc5aed032",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "eshjeshjfsdhjkdfshjkdsfhjkd.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "eshjeshjfsdhjkdfshjkdsfhjkd"
             }
           }
         ]
@@ -177,17 +181,19 @@
   },
   "active": "f63e3ef48967e43e",
   "lastOpenFiles": [
-    "uebung04_Lili-Westermann_Mike-Schmidt_Joachim-Surm.goodnotes",
+    "eshjeshjfsdhjkdfshjkdsfhjkd.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "2025-06-07.md",
     "Schulpädagogik Mitschrieb.pdf",
+    "uebung04_Lili-Westermann_Mike-Schmidt_Joachim-Surm.goodnotes",
     "2025-06-05.md",
     "Schul-Pädagogik",
     "IBN",
     "Übung 2.pdf",
-    "Untitled 1.md",
     "Untitled.canvas",
     "ALDA",
     "Welcome.md",
-    "Untitled.md",
     "test",
     "test/2025-06-04.md",
     "test/create a link.md",
